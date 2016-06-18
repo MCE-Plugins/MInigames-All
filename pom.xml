@@ -95,6 +95,11 @@
 		<artifactId>NoteblockBlitz-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
+	<dependency>
+		<groupId>com.github.MCE-Plugins</groupId>
+		<artifactId>OneInTheChamber-Plugin</artifactId>
+		<version>1.14.9-SNAPSHOT</version>
+	</dependency>
 </dependencies>
 
 </project>
