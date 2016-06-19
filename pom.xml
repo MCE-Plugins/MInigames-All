@@ -120,6 +120,21 @@
 		<artifactId>WarlockTactical-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
+	<dependency>
+		<groupId>com.github.MCE-Plugins</groupId>
+		<artifactId>ColorMatch-Plugin</artifactId>
+		<version>1.14.9-SNAPSHOT</version>
+	</dependency>
+	<dependency>
+		<groupId>com.github.MCE-Plugins</groupId>
+		<artifactId>HorseRacingPlus-Plugin</artifactId>
+		<version>1.14.9-SNAPSHOT</version>
+	</dependency>
+	<dependency>
+		<groupId>com.github.MCE-Plugins</groupId>
+		<artifactId>Sudoku-Plugin</artifactId>
+		<version>1.14.9-SNAPSHOT</version>
+	</dependency>
 </dependencies>
 
 </project>
