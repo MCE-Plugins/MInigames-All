@@ -135,6 +135,11 @@
 		<artifactId>Sudoku-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
+	<dependency>
+		<groupId>com.github.MCE-Plugins</groupId>
+		<artifactId>Jumper-Plugin</artifactId>
+		<version>1.14.9-SNAPSHOT</version>
+	</dependency>
 </dependencies>
 
 </project>
