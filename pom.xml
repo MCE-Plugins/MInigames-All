@@ -42,102 +42,102 @@
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>Snake-Plugin</artifactId>
+		<artifactId>MGSnake-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>BedWars-Plugin</artifactId>
+		<artifactId>MGBedWars-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>BowBash-Plugin</artifactId>
+		<artifactId>MGBowBash-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>SkyWars-Plugin</artifactId>
+		<artifactId>MGSkyWars-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>SeaBattle-Plugin</artifactId>
+		<artifactId>MGSeaBattle-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>MobEscape-Plugin</artifactId>
+		<artifactId>MGMobEscape-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>Conquer-Plugin</artifactId>
+		<artifactId>MGConquer-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>DeathRun-Plugin</artifactId>
+		<artifactId>MGDeathRun-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>FlyingCars-Plugin</artifactId>
+		<artifactId>MGFlyingCars-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>GunGame-Plugin</artifactId>
+		<artifactId>MGGunGame-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>NoteblockBlitz-Plugin</artifactId>
+		<artifactId>MGNoteblockBlitz-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>OneInTheChamber-Plugin</artifactId>
+		<artifactId>MGOITC-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>Splegg-Plugin</artifactId>
+		<artifactId>MGSplegg-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>TrapdoorSpleef-Plugin</artifactId>
+		<artifactId>MGTrapdoorSpleef-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>Warlock-Plugin</artifactId>
+		<artifactId>MGWarlock-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>WarlockTactical-Plugin</artifactId>
+		<artifactId>MGWarlockTactical-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>ColorMatch-Plugin</artifactId>
+		<artifactId>MGColorMatch-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>HorseRacingPlus-Plugin</artifactId>
+		<artifactId>MGHorseRacingPlus-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>Sudoku-Plugin</artifactId>
+		<artifactId>MGSudoku-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
-		<artifactId>Jumper-Plugin</artifactId>
+		<artifactId>MGJumper-Plugin</artifactId>
 		<version>1.14.9-SNAPSHOT</version>
 	</dependency>
 </dependencies>
