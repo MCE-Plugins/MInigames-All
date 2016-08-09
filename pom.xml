@@ -33,112 +33,115 @@
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MinigamesLib</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
+	<!--
+	no longer needed
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MinigamesLib-Bungee</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
+	-->
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGSnake-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGBedWars-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGBowBash-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGSkyWars-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGSeaBattle-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGMobEscape-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGConquer-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGDeathRun-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGFlyingCars-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGGunGame-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGNoteblockBlitz-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGOITC-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGSplegg-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGTrapdoorSpleef-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGWarlock-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGWarlockTactical-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGColorMatch-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGHorseRacingPlus-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGSudoku-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 	<dependency>
 		<groupId>com.github.MCE-Plugins</groupId>
 		<artifactId>MGJumper-Plugin</artifactId>
-		<version>1.14.9-SNAPSHOT</version>
+		<version>${project.version}</version>
 	</dependency>
 </dependencies>
 
