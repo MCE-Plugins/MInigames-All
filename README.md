@@ -1,4 +1,5 @@
-# MInigames-All
-Minecraft Minigames-Lib including all minigames
+# Minigames-All
 
-Currently only snapshot-builds are available [for download](http://nexus.xworlds.eu/nexus/content/repositories/mce-snapshots/com/github/MCE-Plugins/Minigames-All/) 
+Minecraft Minigames-Lib including all minigames
+This is only a helper repository. See main project details at [https://github.com/MysticCity/MinigamesAPI]
+ 
