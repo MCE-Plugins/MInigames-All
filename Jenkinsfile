@@ -14,7 +14,9 @@ pipeline {
       stage ('Build') {
           steps {
               sh 'mvn clean install' 
-              archiveArtifacts artifacts: '**/target/*.jar', fingerprint: true
+              archiveArtifacts artifacts: '**/target/*.zip', fingerprint: true
+              archiveArtifacts artifacts: '**/target/*.bz2', fingerprint: true
+              archiveArtifacts artifacts: '**/target/*.gz', fingerprint: true
           }
           post {
               failure {
